@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152.424" height="152.424" viewBox="0 0 152.424 152.424">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.243" y1="-0.567" x2="1.209" y2="1.365" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d30000"/>
+      <stop offset="1" stop-color="#141023"/>
+    </linearGradient>
+  </defs>
+  <g id="logo" transform="translate(0)">
+    <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="76.212" cy="76.212" rx="76.212" ry="76.212" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    <g id="Groupe_3" data-name="Groupe 3" transform="translate(35.375 33.479)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="57.896" height="62.294" rx="28.948" transform="translate(13.44 11.952)" fill="#fffdfd"/>
+      <path id="Soustraction_2" data-name="Soustraction 2" d="M32.132,32.11a30.062,30.062,0,0,1-12.541-2.726,31.59,31.59,0,0,1-5.473-3.2A33.111,33.111,0,0,1,9.35,21.95a34.519,34.519,0,0,1-3.934-5.133,35.622,35.622,0,0,1-2.97-5.892A36.6,36.6,0,0,1,0,0H8.822c1.222,12.913,11.243,22.65,23.31,22.65S54.221,12.912,55.443,0h8.821a36.6,36.6,0,0,1-2.445,10.925,35.607,35.607,0,0,1-2.97,5.892,34.513,34.513,0,0,1-3.934,5.133,33.1,33.1,0,0,1-4.768,4.236,31.591,31.591,0,0,1-5.473,3.2A30.061,30.061,0,0,1,32.132,32.11Z" transform="translate(41.656 10.924) rotate(90)" fill="#171717"/>
+      <path id="Soustraction_3" data-name="Soustraction 3" d="M43.08,40.367a42.023,42.023,0,0,1-16.837-3.49A42.876,42.876,0,0,1,18.9,32.784a43.855,43.855,0,0,1-6.4-5.422A44.491,44.491,0,0,1,7.212,20.79a44.746,44.746,0,0,1-3.988-7.543A45,45,0,0,1,0,0H11.867C13.833,16.109,27.251,28.257,43.08,28.257S72.327,16.109,74.293,0H86.16a45,45,0,0,1-3.224,13.247,44.791,44.791,0,0,1-3.988,7.543,44.5,44.5,0,0,1-5.282,6.572,43.821,43.821,0,0,1-6.4,5.422,42.868,42.868,0,0,1-7.347,4.094A42.024,42.024,0,0,1,43.08,40.367Z" transform="translate(41.656 86.16) rotate(-90)" fill="#171717"/>
+      <path id="Tracé_1" data-name="Tracé 1" d="M0,0H72.721l-9.41,12.406H11.845Z" transform="translate(12.406 6.301) rotate(90)" fill="#171717"/>
+      <g id="cowry" transform="translate(38.77 28.433)">
+        <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="1.893" cy="1.893" rx="1.893" ry="1.893" fill="#842737"/>
+        <ellipse id="Ellipse_7-2" data-name="Ellipse 7" cx="1.893" cy="1.893" rx="1.893" ry="1.893" transform="translate(0 6.203)" fill="#842737"/>
+        <ellipse id="Ellipse_7-3" data-name="Ellipse 7" cx="1.893" cy="1.893" rx="1.893" ry="1.893" transform="translate(0 12.406)" fill="#842737"/>
+        <ellipse id="Ellipse_7-4" data-name="Ellipse 7" cx="1.893" cy="1.893" rx="1.893" ry="1.893" transform="translate(0 18.609)" fill="#842737"/>
+        <ellipse id="Ellipse_7-5" data-name="Ellipse 7" cx="1.893" cy="1.893" rx="1.893" ry="1.893" transform="translate(0 24.813)" fill="#842737"/>
+      </g>
+    </g>
+  </g>
+</svg>
